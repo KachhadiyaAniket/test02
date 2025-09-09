@@ -1,5 +1,4 @@
 a = 20 
 b = 20 
-main()
-main()
-print a + b + c
+
+print(a + b + c
