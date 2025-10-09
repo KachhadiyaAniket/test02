@@ -1,6 +1,6 @@
 a = 20 
 b = 20 
 main()
-sa
+s
 print(a + b)
 
