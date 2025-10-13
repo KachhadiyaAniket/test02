@@ -1,6 +1,6 @@
 a = 20 
 b = 20 
 main()
-susa;
+susa
 print(a + b)as
 
